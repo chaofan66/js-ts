@@ -33,4 +33,7 @@
 
 const myobj = require('./lesson01');
 
+
+
+
 myobj.fuzhi();
